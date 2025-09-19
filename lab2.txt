@@ -1,0 +1,10 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww28600\viewh18000\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 My name is Khushi . My student number is 100166915. I\'92m an international student in capitano university doing my majors in psychology .I love travelling and also I love to explore new perfumes .I am also learning about digital marketing. My goal is to become a successful psychiatrist and help people
+Bob's computer in simple words ,his web browser is goingto act as the clientand github's server will act as the server . step by step, when bob click the repository link ,an HTTPS request will be sent to Github by his browser. The domain name that is github.com will be tranlated into correct ip address by DNS system.Further the browser contacts the Github server and the repository page is requested .
+Github's server start finding the page and preparing the repository as soon as it recieves the request.Content such as Javascript HTML,CSS,are sent back to bob's browser. Lastly the files gets processed by bob's browser and the page gets displayed on his screen .}
